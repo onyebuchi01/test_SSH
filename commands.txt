@@ -1,0 +1,22 @@
+--- create a repository in github
+--- on your local machine start a new project
+--- follow the commands (
+     a, git init
+     b, git remot add (the repository)
+     c, git branch -M main
+     d, git add .
+     e, git commit -m "enter message about the work done"
+     f, git push -u origin main or git push origin main
+)
+
+--- git branch (enter name of branch)
+--- git checkout -b (name of branch)
+--- after creating the branch you (git switch branch)
+
+do normal (add, git commit, push using git push origin branchName)
+
+
+--- go to online git and create pull request, then merge
+
+
+--- on your local, enter the main branch and enter the command (git pull or git pull orgin main)
