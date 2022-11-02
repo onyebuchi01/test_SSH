@@ -2,7 +2,7 @@
 --- on your local machine start a new project
 --- follow the commands (
      a, git init
-     b, git remot add (the repository)
+     b, git remote add (the repository)
      c, git branch -M main
      d, git add .
      e, git commit -m "enter message about the work done"
